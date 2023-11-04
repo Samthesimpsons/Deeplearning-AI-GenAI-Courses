@@ -8,6 +8,3 @@
 
 3. **LangChain: Chat With Your Data**
    - *Description*: Dive into Retrieval Augmented Generation (RAG) and building chatbots that respond to queries based on your documents. Topics include document loading, splitting, vector stores, retrieval, question answering, and chatbot development.
-
-4. **Fine-tuning Large Language Models**
-   - *Description*: Understand the concepts of fine-tuning and how to train a large language model using your own data. You'll be able to apply fine-t
